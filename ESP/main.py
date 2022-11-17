@@ -1,2 +1,2 @@
-import co
-import sub
+import subscibe
+import connection
